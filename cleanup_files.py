@@ -1,7 +1,8 @@
-# """
-# CP1404/CP5632 Practical
-# Demos of various os module examples
-# """
+"""
+CP1404/CP5632 Practical
+Demos of various os module examples
+"""
+
 import os
 
 
